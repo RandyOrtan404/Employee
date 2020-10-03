@@ -8,7 +8,7 @@ int main()
     scanf("%d",&id);
     printf("Enter the salary of employe\n");
     scanf("%d",&salary);
-    printf("**** Information about employee *****. \n");
+    printf("**** Information about employee *****.\n");
     showdata(id,salary);
 
     return 0;
